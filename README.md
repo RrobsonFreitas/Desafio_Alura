@@ -1,3 +1,3 @@
-# Desafio_Alura - Chatbot para assunto personalizado.
+# Chatbot para assunto personalizado.
 
-TEste
+A ideia é dar suporte aos usuários via chatbot de assunto específico. 
