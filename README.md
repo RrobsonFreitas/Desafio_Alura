@@ -35,7 +35,7 @@ Este repositório contém um chatbot desenvolvido em Python que utiliza a API do
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para sugerir melhorias ou reportar bugs.
 
 
-🎉 **No código eu utilizei como exemplo história infantil: Os 3 porquinhos que está no arquivo 3porquinhos.pdf**
+🎉 **No código eu utilizei como exemplo história infantil de utilidade pública: Os 3 porquinhos, que está no arquivo 3porquinhos.pdf**
 
 
 
